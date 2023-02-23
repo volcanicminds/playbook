@@ -1,2 +1,2 @@
 # playbook
-The Volcanic Minds' business playbook
+The Volcanic Minds business playbook
