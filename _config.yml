@@ -1,3 +1,7 @@
 #Build settings
 theme: minima
 title: "Volcanic Minds"
+color_scheme: dark
+favicon_ico: "https://volcanicminds.com/favicon.ico"
+logo: "https://volcanicminds.com/_nuxt/logo-dark.abdf7e24.png"
+footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) - P. Iva 12754330012"
