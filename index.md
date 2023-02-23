@@ -1,5 +1,7 @@
-Choose the right link for you:
+Choose the right path for you:
 
-Partner: [Partners Playbook](./partners)
 
-Employees: [Employees Playbook](./employees)
+[Partners Playbook](./partners){: .btn .btn-purple }
+
+
+[Employees Playbook](./employees){: .btn .btn-green }
