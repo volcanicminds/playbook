@@ -4,7 +4,7 @@
 
 [Work in progress]
 
-## How to come on board?
+## How to come on board?
 
 [Work in progress]
 
