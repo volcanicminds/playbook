@@ -2,7 +2,8 @@
 
 ## To start a new project together?
 
-[Work in progress]
+Volcanic Minds welcomes business partners who are interested in collaborating with us. If you want to become a partner or need more information about the partnership opportunities, please send us an email at [info@volcanicminds.com](mailto:info@volcanicminds.com). We're always open to exploring new partnerships with individuals and organizations from various industries and backgrounds.
+Thank you for considering Volcanic Minds as your potential partner.
 
 ## How to come on board?
 
