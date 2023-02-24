@@ -28,5 +28,6 @@
 
 [Work in progress]
 
-## Parting ways
+## Parting ways
+
 [Work in progress]
