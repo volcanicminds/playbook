@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 #Build settings
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 title: "Volcanic Minds"
 author:
   name: Volcanic Minds
@@ -29,23 +30,24 @@ favicon_ico: "https://volcanicminds.com/favicon.ico"
 logo: "https://volcanicminds.com/_nuxt/logo-dark.abdf7e24.png"
 markdown_ext: "md"
 footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) - P. Iva 12754330012"
-minima:
-  social_links:
-    - {
-        platform: linkedin,
-        user_url: "https://www.linkedin.com/company/volcanic-minds",
-      }
-    - {
-        platform: instagram,
-        user_url: "https://www.instagram.com/volcanic_minds/",
-      }
-  header_pages:
-    - company.html
-    - company-growth.html
-    - how-we-work.html
-    - personal-growth.html
-    - contact-us.html
-  show_excerpts: false
+# minima:
+#   social_links:
+#     - {
+#         platform: linkedin,
+#         user_url: "https://www.linkedin.com/company/volcanic-minds",
+#       }
+#     - {
+#         platform: instagram,
+#         user_url: "https://www.instagram.com/volcanic_minds/",
+#       }
+#   header_pages:
+#     - company.html
+#     - company-growth.html
+#     - how-we-work.html
+#     - personal-growth.html
+#     - contact-us.html
+#   show_excerpts: false
+
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Volcanic Minds business playbook, which describes the guidelines and values
   on which the company is based.
