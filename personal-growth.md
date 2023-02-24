@@ -1,25 +1,32 @@
 # Personal growth
 
 ## Coaching & Follow Up
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Career path
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Smart working vs Remote working: hybrid
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Personal tech budget & benefit
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Investment Time: open source, reading, sport, e-learning
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Life balancing: free-paid time
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Leave days, vacation days
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+
+[Work in progress]
 
 ## Parting ways
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum purus eu metus volutpat, nec maximus magna viverra. Sed id ipsum sed massa molestie laoreet a non magna. Donec facilisis vestibulum nibh, sit amet interdum nisi porta volutpat. Duis lobortis vel risus vel volutpat. Praesent ut odio nec turpis viverra egestas. Integer suscipit ut justo tempus sodales. Nam commodo vel urna id interdum. Morbi finibus a diam eget luctus. Praesent accumsan dolor eu nulla auctor bibendum. Suspendisse viverra elit eu justo vestibulum dignissim. In elementum id orci ut sollicitudin. Quisque facilisis hendrerit purus in hendrerit.
+[Work in progress]
