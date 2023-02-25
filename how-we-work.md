@@ -1,4 +1,22 @@
+---
+layout: default
+title: How we work
+nav_order: 4
+---
+
 # How we work
+
+{: .no_toc }
+
+## Contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+
+{:toc}
+
+---
 
 ## Project steps
 

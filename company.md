@@ -1,4 +1,22 @@
+---
+layout: default
+title: Company profile
+nav_order: 2
+---
+
 # Company profile
+
+{: .no_toc }
+
+## Contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+
+{:toc}
+
+---
 
 ## A bit of history
 
