@@ -5,15 +5,12 @@ nav_order: 3
 ---
 
 # Company growth
-
 {: .no_toc }
 
 ## Contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-
 {:toc}
 
 ---
