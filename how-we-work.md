@@ -15,6 +15,10 @@ nav_order: 4
 
 ---
 
+## Methodology
+
+[Work in progress]
+
 ## Project steps
 
 [Work in progress]
