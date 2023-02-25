@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # About this
-
 {: .no_toc }
 
 At Volcanic Minds, we are committed to providing quality products and services to our partners while maintaining a positive and inclusive work environment for our employees. We understand the importance of having a solid playbook that outlines our company's history, culture, mission, values, organizational structure, management practices, product and service offerings, sales and marketing strategies, and our approach to risk management and compliance.
