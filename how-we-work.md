@@ -38,7 +38,15 @@ Managing a new IT project requires careful planning and execution to ensure that
 
 ## Project meetings
 
-[Work in progress]
+Volcanic Minds, a software development company, utilizes the Scrum methodology to manage their projects. Scrum involves a set of meetings and rituals that enable the team to collaborate effectively and deliver value to their clients.
+
+The Scrum process starts with sprint planning, during which the team meets to plan the work that will be completed during the upcoming sprint. The team reviews the product backlog, a prioritized list of features and requirements, and selects the items that they will work on during the sprint.
+
+After sprint planning, the team holds daily scrum meetings, which are short stand-up meetings where each team member provides a brief update on their progress and discusses any issues or obstacles that they are facing. Daily scrum meetings help keep the team on track and ensure that everyone is aware of what others are working on.
+
+At the end of each sprint, the team holds a sprint review meeting, where they demonstrate the completed work to stakeholders and receive feedback. The team then holds a sprint retrospective meeting to reflect on the previous sprint and identify areas for improvement in their process.
+
+Overall, the Scrum methodology provides Volcanic Minds with a flexible and adaptive approach to project management that allows the team to work together effectively and deliver value to their clients on a regular basis.
 
 ## Effective meetings
 
