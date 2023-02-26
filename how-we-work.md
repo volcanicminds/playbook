@@ -21,7 +21,20 @@ nav_order: 4
 
 ## Project steps
 
-[Work in progress]
+Managing a new IT project requires careful planning and execution to ensure that the project is completed on time, within budget, and meets the desired outcome. Here is how Volcanic Minds operates when dealing with a new IT project:
+
+- Engage: This step involves engaging with the stakeholders and understanding their requirements, objectives, and goals for the project. The project manager should conduct in-depth documentation and analysis of the requirements, including gathering information on the scope of the project, the expected timeline, and the budget.
+
+- Mockup: In this step, the project manager studies the target audience and creates a prototype of the project. This helps to identify any potential design or functionality issues and allows stakeholders to provide feedback on the project's design and features.
+
+- Creation:
+    - Management: Team management and performance evaluation is an essential step that involves managing the project team, assigning roles and responsibilities, setting goals and targets, and monitoring progress. The project manager should ensure that the team is working effectively and efficiently and address any issues that arise promptly.
+
+    - Development: Infrastructure design and technical development involve designing and developing the technical aspects of the project, including the hardware, software, and network infrastructure. This step requires technical expertise and knowledge to ensure that the project is built to specification and meets the requirements of the stakeholders.
+
+    - Sharing: Incremental sharing of the development progress and change request management involves sharing the progress of the project with stakeholders and addressing any change requests. The project manager should communicate regularly with stakeholders, provide progress reports, and seek feedback to ensure that the project is meeting the stakeholder's expectations.
+
+- Evolution: Deployment, product evolution, generic, and release support is the final step in managing a new IT project. This step involves deploying the project, ensuring that it is working correctly, and providing support to stakeholders. The project manager should also ensure that the project is maintained and updated regularly to meet changing needs and requirements.
 
 ## Project meetings
 
