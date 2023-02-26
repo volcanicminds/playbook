@@ -72,3 +72,8 @@ github_username: volcanicminds
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# External navigation links
+nav_external_links:
+  - title: Our website
+    url: https://volcanicminds.com
