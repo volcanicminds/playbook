@@ -40,7 +40,7 @@ The suite includes:
     - [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend) based on [Fastify](https://www.fastify.io/)
     - [Volcanic Database Typeorm](https://github.com/volcanicminds/volcanic-database-typeorm) based on [TypeORM](https://typeorm.io/)
 - Admin panel
-    - [Volcanic-Admin](https://github.com/volcanicminds/volcanic-admin) based on [Vue 2.7.13](https://v2.vuejs.org/), including [Vue Easytable](https://happy-coding-clans.github.io/vue-easytable/#/en/demo)
+    - [Volcanic Admin](https://github.com/volcanicminds/volcanic-admin) based on [Vue 2.7.13](https://v2.vuejs.org/), including [Vue Easytable](https://happy-coding-clans.github.io/vue-easytable/#/en/demo)
 - Webiste
     - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website) based on [Nuxt 3](https://nuxt.com/)
 
