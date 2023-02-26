@@ -59,10 +59,6 @@ Additionally, meetings should not exceed 50 minutes to prevent wasting attendees
 
 Finally, it's essential to end each meeting by sharing established goals or a list of topics to discuss in future meetings. By following these guidelines, all attendees can ensure that their meetings are productive and efficient.
 
-## All-hands meetings
-
-[Work in progress]
-
 ## Define boundaries
 
 [Work in progress]
