@@ -19,7 +19,15 @@ nav_order: 3
 
 [Work in progress]
 
-## S.M.A.R.T. Goals (Specific, Measurable, Attainable, Relevant, Time-based)
+## S.M.A.R.T. Goals
+
+As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives which stands for:
+
+- Specific
+- Measurable
+- Achievable
+- Reasonable
+- Time-bound
 
 [Work in progress]
 
