@@ -17,7 +17,19 @@ nav_order: 4
 
 ## Methodology
 
-[Work in progress]
+[TO RE READ]
+A project type contract is a principal solution for clients of a company seeking to engage the services of the company for a specific project. This type of contract provides a legally binding agreement between the client and the company, detailing the project scope, timeline, and payment terms.
+
+The project type contract serves as a comprehensive document that defines the expectations and obligations of both parties, outlining the roles and responsibilities of the company and the client. It establishes a clear understanding of the project requirements, ensuring that the client's needs are met while protecting the company's interests.
+
+By outlining the terms and conditions of the project in a project type contract, clients can ensure that they are receiving the services they require, and companies can protect themselves against scope creep, unexpected changes, and delays. This type of contract is essential in establishing trust between the client and the company, ensuring a successful project outcome, and establishing a long-term relationship between the two parties.
+
+The company prefers project type contracts over time material contracts, except in exceptional cases. A project type contract provides a clear scope of work, timeline, and payment terms, ensuring that both the company and the client have a shared understanding of the project's requirements.
+
+In addition to project type contracts, the company also offers a maintenance plan that includes pre-paid hours that clients can use for bug fixes. However, these hours can only be used for bug fixes, and clients must provide a written analysis of the issue before the company can allocate the pre-paid hours.
+
+The maintenance plan allows clients to have peace of mind knowing that they have access to support and bug fixes without incurring additional costs. By offering a maintenance plan, the company can establish long-term relationships with its clients, providing ongoing support and ensuring client satisfaction. Overall, the company's preference for project type contracts and maintenance plans demonstrates its commitment to delivering high-quality services to its clients.
+[/ TO RE READ]
 
 ## Project steps
 
@@ -47,6 +59,10 @@ After sprint planning, the team holds daily scrum meetings, which are short stan
 At the end of each sprint, the team holds a sprint review meeting, where they demonstrate the completed work to stakeholders and receive feedback. The team then holds a sprint retrospective meeting to reflect on the previous sprint and identify areas for improvement in their process.
 
 Overall, the Scrum methodology provides Volcanic Minds with a flexible and adaptive approach to project management that allows the team to work together effectively and deliver value to their clients on a regular basis.
+
+## Project delivery kit
+
+[Work in progress]
 
 ## Effective meetings
 
