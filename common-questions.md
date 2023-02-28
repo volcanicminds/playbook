@@ -33,7 +33,11 @@ In conclusion, this business playbook is here to provide consistency, clarity, r
 
 ## How frequently is this playbook updated?
 
-[Work in progress]
+The Volcanic Minds business playbook is a living document that is constantly evolving to reflect the latest decisions and practices of the company.
+
+Whenever a new decision is made, whether it's by the leadership team or as a result of an employee suggestion that has been approved, the playbook will be updated accordingly. This ensures that the entire team is working from the same playbook and that everyone is aware of the latest policies and procedures. By keeping the playbook up-to-date, the company can operate more efficiently and effectively, as everyone is aligned with the same goals and strategies.
+
+Additionally, employees are encouraged to provide suggestions and feedback to continuously improve the playbook, ensuring that it remains relevant and effective for the company's needs.
 
 ## Who keeps this playbook up to date?
 
