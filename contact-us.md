@@ -23,9 +23,7 @@ We are unceasingly desirous to talk about new proejcts and opportunities, even a
 
 Volcanic Minds is always seeking highly motivated professionals to join our amazing team. If you are a candidate and are  looking for a challenging and rewarding opportunity, you are invited to send CV and a short presentation to [hr@volcanicminds.com](mailto:hr@volcanicminds.com). Please note that our company is highly selective in our hiring process, and we only consider candidates who demonstrate exceptional skills and a strong passion for their work.
 
-To ensure that they have a complete understanding of our company culture and expectations, we require that all applicants thoroughly read our playbook before sending their application. This document outlines our values, goals, and standards, and we believe that it is an essential tool for success within our team.
-
-**Pay attention:** it's essential that you thoroughly read this playbook before proceeding.
+**Pay attention:** it's essential that you thoroughly read this playbook before proceeding. This is an essential tool for success within our team.
 
 ## How to become a partner
 
