@@ -64,6 +64,7 @@ Finally, it's essential to end each meeting by sharing established goals or a li
 [Work in progress]
 
 ## Timesheet
+
 At Volcanic Minds, we believe in trust and autonomy when it comes to managing workload. We do not require employees to fill out timesheets unless they are working on specific projects or clients that require dedicated tracking of time spent.
 
 This policy allows employees to work efficiently without the added burden of tracking every minute of their time. However, for projects or clients that require dedicated tracking, we do require employees to fill out a timesheet. This helps us to accurately bill clients and monitor project progress.

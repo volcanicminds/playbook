@@ -38,3 +38,7 @@ nav_order: 7
 ## What tools do we often use?
 
 [Work in progress]
+
+## What did we use to create this playbook?
+
+This playbook is hosted on [github](https://github.com/volcanicminds/volcanic-minds-playbook) and we have used Jekyll with [Just the docs](https://github.com/just-the-docs/just-the-docs), a modern, high customizable, responsive theme (with built-in search).
