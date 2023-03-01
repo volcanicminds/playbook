@@ -2,7 +2,7 @@
 layout: default
 title: Common questions
 nav_order: 7
-last_modified_date: 2023-03-01 12:09
+last_modified_date: 2023-03-01
 ---
 
 # Common questions

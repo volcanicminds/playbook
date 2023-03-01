@@ -2,7 +2,7 @@
 layout: default
 title: How we work
 nav_order: 4
-last_modified_date: 2023-03-01 12:09
+last_modified_date: 2023-03-01
 ---
 
 # How we work

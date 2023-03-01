@@ -91,4 +91,4 @@ nav_external_links:
 
 # Footer last edited timestamp
 last_edit_timestamp: false # default date in footer is disabled, redefined on footer_customr.html
-last_edit_time_format: "%e %B %Y, %H:%M"
+last_edit_time_format: "%e %B %Y
