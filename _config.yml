@@ -21,13 +21,13 @@
 #Build settings
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-title: "Volcanic Minds"
+title: Volcanic Minds
+logo: "/assets/images/logo-dark.png"
 author:
   name: Volcanic Minds
   email: info@volcanicminds.com
 color_scheme: dark
 favicon_ico: "/assets/images/favicon.ico"
-logo: "/assets/images/logo-dark.png"
 markdown_ext: "md"
 footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) - P. Iva 12754330012"
 # minima:
@@ -51,8 +51,10 @@ footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) -
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Volcanic Minds business playbook, which describes the guidelines and values
   on which the company is based.
-url: "https://volcanicminds.github.io/volcanic-minds-playbook" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://volcanicminds.github.io/volcanic-minds-playbook"
 github_username: volcanicminds
+repository: volcanicminds/volcanic-minds-playbook
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -72,6 +74,15 @@ github_username: volcanicminds
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site search
+search_enabled: true
+search:
+  button: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # External navigation links
 nav_external_links:
