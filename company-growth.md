@@ -46,12 +46,12 @@ Volcanic Minds is developing a suite of open-source projects using JavaScript an
 
 The suite includes:
 - Backend, divided into 2 projects
-    - [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend) based on [Fastify](https://www.fastify.io/)
-    - [Volcanic Database Typeorm](https://github.com/volcanicminds/volcanic-database-typeorm) based on [TypeORM](https://typeorm.io/)
+    - [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend){:target="_blank"} based on [Fastify](https://www.fastify.io/){:target="_blank"}
+    - [Volcanic Database Typeorm](https://github.com/volcanicminds/volcanic-database-typeorm){:target="_blank"} based on [TypeORM](https://typeorm.io/)
 - Admin panel
-    - [Volcanic Admin](https://github.com/volcanicminds/volcanic-admin) based on [Vue 2.7.13](https://v2.vuejs.org/), including [Vue Easytable](https://happy-coding-clans.github.io/vue-easytable/#/en/demo)
+    - [Volcanic Admin](https://github.com/volcanicminds/volcanic-admin){:target="_blank"} based on [Vue 2.7.13](https://v2.vuejs.org/), including [Vue Easytable](https://happy-coding-clans.github.io/vue-easytable/#/en/demo){:target="_blank"}
 - Webiste
-    - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website) based on [Nuxt 3](https://nuxt.com/)
+    - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website){:target="_blank"} based on [Nuxt 3](https://nuxt.com/){:target="_blank"}
 
 all of which are designed to be customizable and adaptable to various projects.
 

@@ -56,4 +56,4 @@ Additionally, employees are encouraged to provide suggestions and feedback to co
 
 ## What did we use to create this playbook?
 
-This playbook is hosted on [github](https://github.com/volcanicminds/volcanic-minds-playbook) and we have used Jekyll with [Just the docs](https://github.com/just-the-docs/just-the-docs), a modern, high customizable, responsive theme (with built-in search).
+This playbook is hosted on [github](https://github.com/volcanicminds/volcanic-minds-playbook){:target="_blank"} and we have used Jekyll with [Just the docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"}, a modern, high customizable, responsive theme (with built-in search).
