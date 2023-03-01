@@ -18,7 +18,7 @@ last_modified_date: 2023-03-01
 
 ## How to start a new project together
 
-We are unceasingly desirous to talk about new proejcts and opportunities, even at the early stage of business. Don't hesitate to submit your project, idea or potential collaboration by dropping us a line at [info@volcanicminds.com](mailto:info@volcanicminds.com).
+We are unceasingly desirous to talk about new proejcts and opportunities, even at the early stage of business. Without any commercial constraints. Don't hesitate to submit your project, idea or potential collaboration by dropping us a line at [info@volcanicminds.com](mailto:info@volcanicminds.com) or make an appointment from our [contact page](https://volcanicminds.com){:target="_blank"}.
 
 ## How to come on board
 
