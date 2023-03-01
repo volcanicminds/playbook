@@ -7,6 +7,8 @@ nav_order: 7
 # Common questions
 {: .no_toc }
 
+{{ page.last_modified_date | date: site.last_edit_time_format }}
+
 ## Contents
 {: .no_toc .text-delta }
 
