@@ -22,7 +22,17 @@ last_modified_date: 2023-03-01
 
 ## Career path
 
-[Work in progress]
+Volcanic Minds offers three main career paths: marketing and design, IT development, and administration and sales.
+
+For the marketing and design area, there are two career paths: operatives and team leaders. Operatives work on specific projects, while team leaders manage a team of operatives. Each team could be assigned to specific clients or work on multiple projects simultaneously.
+
+The IT development area is divided into sub-teams, each with a pool of frontend, backend, and quality developers and a team leader. The teams could work on specific projects, internal core projects, or multiple projects simultaneously.
+
+The administration and sales area is divided into two sub-areas. The administrative sub-area handles all administrative work within the company, while the sales area has a 2-level structure with a team of salesmen and a team leader. Each team could be assigned to an industry, specific partners, or enterprise-level clients.
+
+Each of the three main areas is led by one of the founders who acts as a strategy planner.
+
+Overall, there are opportunities for growth within each career path, with the possibility of moving up from an operative to a team leader position, or from a team leader to a higher management position within the company.
 
 ## Smart working vs Remote working: hybrid
 
