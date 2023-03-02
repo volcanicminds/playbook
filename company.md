@@ -18,18 +18,23 @@ last_modified_date: 2023-03-01
 
 ## A bit of history
 
-Volcanic Minds was born in September 2022, founded by three associates: Davide Morra, Alessandro Capitolo, and Davide Dispenza. This new IT consulting company is committed to providing high-quality services to its partners and clients, which are primarily other companies.
+Volcanic Minds was born in September 2022, founded by three associates: Davide Morra, Alessandro Capitolo and Davide Dispenza. This new IT consulting company is committed to providing high-quality services to its partners and clients, which are primarily other companies.
 
-With a motto of "smart, fast, efficient", Volcanic Minds aims to distinguish itself in the industry by offering not only technical services but also management and process consulting. The founders of Volcanic Minds have a wealth of experience in the IT industry and are passionate about helping their clients achieve success. As a young and dynamic company, Volcanic Minds is poised to make a significant impact on the IT consulting industry.
+With a motto of "smart, fast, efficient", Volcanic Minds aims to distinguish itself in the industry by offering not only technical services but also management and process consulting. 
+
+The founders of Volcanic Minds have accumulated extensive experience in the IT sector, engaging with diverse entities such as Corporates, Startups, and SMEs across various industries over several years, all seeking a dependable and robust technological partner. The founders' commitment to assisting their clients in achieving success with their expertise is a crucial aspect of their identity. As a young and dynamic company, Volcanic Minds is now positioned to make a substantial impact in the IT consulting industry, with a clearly defined mission.
 
 ## Our values & experiences
 
 At our company, we are incredibly passionate about our core values, which are the driving force behind everything we do.
 Quality is not just a buzzword for us - it's the foundation of our business, and we always go the extra mile to ensure that our products and services exceed our clients' expectations.
+
 Transparency is another value that we hold dear, as we believe in building strong, honest relationships with our clients and partners. We welcome honest opinions and feedback, as we know that this is what helps us grow and improve.
 Our clients' needs are our top priority, and we take the time to understand their unique challenges so that we can deliver tailored solutions that meet their specific requirements.
 
-With our extensive experience across a range of industries - including manufacturing, banking, finance, automotive, digital evolution and advertising - we bring a wealth of expertise and insights to every project. We are incredibly proud of our values and experiences, and we can't wait to share our passion with you!
+With our extensive experience across a range of industries - including manufacturing, banking, finance, automotive, healtcare, digital evolution and advertising - we bring a wealth of expertise and insights to every project. 
+
+We are incredibly proud of our values and experiences, and we can't wait to share our passion with you!
 
 ## Vision and Mission vs Philosophy
 
@@ -37,7 +42,7 @@ Our vision is to achieve growth without ever sacrificing quality or losing focus
 
 Our mission is to create an environment where our employees can thrive both professionally and personally. We want our team to feel challenged and inspired in their work, while still maintaining a healthy work-life balance. We believe that happy and motivated employees are the key to our success, and we work hard to provide them with the resources and support they need to succeed.
 
-Our philosophy is centered around innovation, creativity, and collaboration. We encourage our team to think outside the box and come up with new ideas that can help us better serve our clients and stay ahead of the curve. By fostering a culture of teamwork and open communication, we are able to achieve our goals while also creating a positive and supportive work environment.
+Our philosophy is centered around innovation, creativity, and collaboration. We encourage our team to think outside the box and come up with new ideas that can help us better serve our clients and stay ahead of the curve. By fostering a culture of teamwork and open communication, we are able to achieve our goals while also creating a positive and supportive work environment. Because working well and hard while having fun is possible.
 
 ## Company rituals & touch points
 
