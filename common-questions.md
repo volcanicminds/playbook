@@ -48,11 +48,11 @@ Additionally, employees are encouraged to provide suggestions and feedback to co
 
 ## Do you work on-site with partners and customers?
 
-[Work in progress]
+Every collaboration requires ceremonies, even in-person, to establish a strong and solid relationship. At Volcanic Minds, we have decided to work in an agile and remote way for various reasons, including costs, talent acquisition, work-life balance, market reach, and company strategy. While we maintain physical contact with our customers and partners when necessary, there is no doubt that our way of working leans heavily towards smart working methods.
 
 ## What tools do we often use?
 
-[Work in progress]
+Here is a _non-exhaustive_ **messy** list: discord, slack, github, gitlab, vscode, xcode, google workspace, harvest, jira, confluence, asana, trello, ganttpro, postman, figma, sketch and others ..
 
 ## What did we use to create this playbook?
 
