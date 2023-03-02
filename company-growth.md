@@ -34,7 +34,9 @@ As you probably know, SMART is a mnemonic acronym that can be used to drive the 
 
 ## Work for equity
 
-[Work in progress]
+Volcanic Minds, as a company, understands the value of equity for starting projects. However, at this stage in the company's life, it is not feasible to work for equity for starting projects. The company's limited resources are primarily focused on developing its core business operations and expanding its customer base.
+
+That being said, the company is open to evaluating opportunities for evolutionary or maintenance stages of projects. Volcanic Minds recognizes the potential benefits of equity arrangements in these stages, as they can provide a viable means of financing for companies with limited financial resources. The company is willing to explore these opportunities on a case-by-case basis and will work to ensure that any equity arrangements are mutually beneficial for all parties involved.
 
 ## Social projects & no-profit activities
 
