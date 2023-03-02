@@ -64,4 +64,12 @@ These events play a crucial role in helping us build a strong and supportive com
 
 ## Board of directors
 
-[Work in progress]
+Volcanic Minds is a company that has a board of directors consisting of three highly experienced individuals. The board members are Alessandro Capitolo, Davide Dispenza, and Davide Morra, who are also the co-founders of the company. They have worked together in previous working experiences dealing with challenging projects inside many companies.
+
+Davide Morra serves as the CEO, CFO, and Sales, Administration, and Finance manager of Volcanic Minds. As the CEO, he provides strategic leadership to the company, overseeing all aspects of the company's operations. He is also responsible for managing the company's finances, ensuring that it remains financially stable and profitable. Additionally, he oversees the company's sales, administration, and finance departments, ensuring that they are working efficiently and effectively.
+
+Alessandro Capitolo serves as the CMO and CRO, heading the marketing and design department of Volcanic Minds. With a wealth of experience in marketing and design, he is responsible for the development and implementation of the company's marketing strategies. His expertise in market research, advertising, and branding has been instrumental in building the company's brand and driving customer engagement.
+
+Davide Dispenza is the CTO, CIO, and CSO, and he manages the engineering and tech partnership department of Volcanic Minds. His extensive knowledge and experience in technology and engineering have enabled the company to develop innovative solutions that have helped the company to stay ahead of its competitors. He is also responsible for forging strategic partnerships with technology companies and other stakeholders in the industry.
+
+Overall, the board of directors of Volcanic Minds comprises talented professionals who bring unique perspectives and expertise to the company. Their complementary skills and shared vision for the company's growth and success have been instrumental in driving the company forward.
