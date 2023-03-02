@@ -33,6 +33,10 @@ Each of the three main areas is led by one of the founders who acts as a strateg
 
 Overall, there are opportunities for growth within each career path, with the possibility of moving up from an operative to a team leader position, or from a team leader to a higher management position within the company.
 
+As a small to mid-sized company, we recognize that career growth may not always follow a vertical path with clear promotions and titles. Instead, we believe in providing our employees with opportunities to take on additional responsibilities and expand their skill sets, which can lead to new and exciting career paths.
+
+We encourage our employees to take on new challenges and seek out opportunities for growth within the company. By demonstrating a strong work ethic, a willingness to learn, and a commitment to the company's values and goals, employees can earn the trust and respect of the board and the company's founders.
+
 ## Smart working vs Remote working: hybrid
 Volcanic Minds operates as a fully remote organization, which means that all of its employees work from home or any other location they choose. This approach has been adopted by the company because it believes in the importance of trust and efficiency in the workplace.
 
