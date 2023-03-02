@@ -21,7 +21,6 @@ last_modified_date: 2023-03-01
 [Work in progress]
 
 ## Career path
-
 Volcanic Minds offers three main career paths: marketing and design, IT development, and administration and sales.
 
 For the marketing and design area, there are two career paths: operatives and team leaders. Operatives work on specific projects, while team leaders manage a team of operatives. Each team could be assigned to specific clients or work on multiple projects simultaneously.
@@ -35,7 +34,6 @@ Each of the three main areas is led by one of the founders who acts as a strateg
 Overall, there are opportunities for growth within each career path, with the possibility of moving up from an operative to a team leader position, or from a team leader to a higher management position within the company.
 
 ## Smart working vs Remote working: hybrid
-
 Volcanic Minds operates as a fully remote organization, which means that all of its employees work from home or any other location they choose. This approach has been adopted by the company because it believes in the importance of trust and efficiency in the workplace.
 
 Volcanic Minds requires its employees to operate within a specific time zone range. Specifically, they ask that their employees work from within a time zone that is either one hour ahead or one hour behind the company's official time zone. This requirement ensures that employees are available for team collaboration and meetings during standard business hours, while also allowing for flexibility in work schedules.
@@ -59,8 +57,11 @@ In conclusion, Volcanic Minds is a forward-thinking company that recognizes the 
 [Work in progress]
 
 ## Leave days, vacation days
+Company vacation days are an important aspect of employee benefits that are designed to help employees achieve a healthy work-life balance. The law in many countries mandates a minimum number of days of paid leave per year, which employees are entitled to. At our company, we adhere to these legal requirements and ensure that our employees receive their entitled leave days.
 
-[Work in progress]
+However, we also understand that employees have different needs and preferences when it comes to taking time off from work. Therefore, we don't have mandatory vacation days during specific times of the year, such as a summer shutdown or a winter break. Instead, we encourage our employees to plan their time off in advance and work with their direct managers to ensure that the business needs are taken into account.
+
+Transparency and flexibility are key principles that we follow when it comes to company vacation days. We encourage our employees to discuss their needs and preferences with their direct managers, and we work together to find solutions that meet both personal and business needs. We believe that this approach helps to create a positive work environment, where employees feel supported and valued.
 
 ## Parting ways
 
