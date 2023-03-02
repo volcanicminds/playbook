@@ -18,23 +18,31 @@ last_modified_date: 2023-03-01
 
 ## Why this playbook?
 
+We believe that the playbook is a valuable resource for companies looking to compete at the level of ours. It reflects our approach to thinking, working, and collaborating with the various actors in our ecosystem, including partners, customers, and collaborators.
+
+The strength of the playbook lies not just in the specific metrics, but in its ability to provide a broader vision that extends beyond day-to-day activities, and to offer a clear and transparent path to achieving long-term objectives. The playbook also allows us to align our goals and strategies across different teams and projects, ensuring that everyone is working towards a shared vision.
+
+While not exhaustive, this playbook aims to provide transparency and to demonstrate that it is possible to conduct business in a clear and structured way.
+
+## What are the strengths of the playbook?
+
 A business playbook is a collection of documents, processes, and guidelines that define how a company operates. It acts as a roadmap for employees, stakeholders, partners, and customers to comprehend our values and philosophy. Here are a few reasons why having a business playbook is crucial for us:
 
-- Consistency: A business playbook ensures that everyone in the company is on the same page when it comes to quality, transparency, and customer satisfaction. It sets the standards and expectations for all employees to follow, ensuring that the company delivers consistent results to its clients.
+- Consistency: it serves as a guide for ensuring that all members of the company are aligned in their commitment to quality, transparency, and customer satisfaction.
 
-- Clarity: A well-defined playbook provides clarity to employees, customers, and stakeholders about the company's policies, procedures, and guidelines. It eliminates confusion and miscommunication, ensuring that everyone knows what to expect from the company.
+- Clarity: well-designed policies, procedures, and guidelines provide transparency to employees, customers, and stakeholders on company operations.
 
-- Reputation: One of the missions of Volcanic Minds is to build a good reputation. A business playbook helps ensure that the company consistently delivers on its promises, which can help build trust with customers and improve its reputation.
+- Reputation: one of the missions of Volcanic Minds is to build a good reputation. A business playbook helps ensure that the company consistently delivers on its promises.
 
-- Efficiency: A business playbook can also improve the efficiency of the company's operations. By defining processes and procedures, employees can work more efficiently, reducing errors and improving productivity. This can lead to cost savings and improved profitability.
+- Efficiency: a playbook can enhance operational efficiency by defining processes and procedures, leading to improved productivity, cost savings, and profitability.
 
-- Growth: A well-defined business playbook can help a company grow. By establishing a good reputation, the company is more likely to attract new customers and retain existing ones. This can lead to increased revenue and growth opportunities.
-
-In conclusion, this business playbook is here to provide consistency, clarity, reputation, efficiency, and growth opportunities, which can help the company succeed in the long term.
+- Growth: it can promote growth by establishing a good reputation, attracting and retaining customers, creating opportunities for revenue growth, and reducing costs through increased efficiency and productivity
 
 ## How frequently is this playbook updated?
 
 This playbook is a living document that is constantly evolving to reflect the latest decisions and practices of the company. There is no one right time to update and review this document, but it is true that we consistently review it to reflect any business decisions in a timely manner.
+
+In any case, this document is reviewed at least a couple of times a year.
 
 ## Who keeps this playbook up to date?
 
@@ -42,9 +50,11 @@ Whenever a new decision is made, whether it's by the leadership team or as a res
 
 Additionally, employees are encouraged to provide suggestions and feedback to continuously improve the playbook, ensuring that it remains relevant and effective for the company's needs.
 
-## Do you take legal ownership of the software you write?
+## Who owns the legal rights to the software that you write?
 
-[Work in progress]
+We transfer legal ownership of the software to the customer only after they have paid for it. This is a standard practice in the software development industry. Once the customer has paid, they will own the legal rights to the software and can use it as they see fit.
+
+Please note that if we use third-party software with open or closed licenses, we cannot transfer ownership of that software to the customer. However, the code we produce in-house is transferable to the customer, along with the legal rights to use and modify that code.
 
 ## Do you work on-site with partners and customers?
 
