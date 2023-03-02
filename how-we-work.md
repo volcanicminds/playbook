@@ -17,6 +17,7 @@ last_modified_date: 2023-03-01
 ---
 
 ## Methodology
+
 A project type contract is a principal solution for clients of a company seeking to engage the services of the company for a specific project. This type of contract provides a legally binding agreement between the client and the company, detailing the project scope, timeline, and payment terms.
 
 The project type contract serves as a comprehensive document that defines the expectations and obligations of both parties, outlining the roles and responsibilities of the company and the client. It establishes a clear understanding of the project requirements, ensuring that the client's needs are met while protecting the company's interests.
@@ -26,6 +27,10 @@ The company prefers project type contracts over time material contracts, except 
 In addition to project type contracts, the company also offers a maintenance plan that includes pre-paid hours that clients can use for bug fixes. However, these hours can only be used for bug fixes, and clients must provide a written analysis of the issue before the company can allocate the pre-paid hours.
 
 The maintenance plan allows clients to have peace of mind knowing that they have access to support and bug fixes without incurring additional costs. By offering a maintenance plan, the company can establish long-term relationships with its clients, providing ongoing support and ensuring client satisfaction. Overall, the company's preference for project type contracts and maintenance plans demonstrates its commitment to delivering high-quality services to its clients.
+
+## Our area of expertise
+
+[Work in progress]
 
 ## Project steps
 
