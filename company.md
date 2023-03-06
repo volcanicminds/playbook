@@ -62,7 +62,6 @@ As a result, we building and maintaining strong, sincere, positive relationships
 
 Through this collaborative approach, we are able to deliver outstanding results and provide exceptional value to our clients. We are committed to fostering long-term partnerships that enable us to continue delivering innovative solutions and achieving mutual success.
 
-
 ## Cutting edge culture
 
 At Volcanic Minds, we take pride in our cutting-edge culture. We believe that to stay ahead of the curve, we must continuously innovate and challenge the status quo. Our culture is based on curiosity, creativity, and a passion for pushing boundaries.
