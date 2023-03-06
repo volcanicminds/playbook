@@ -69,12 +69,13 @@ In conclusion, providing detailed processes level documentation and the source c
 
 ## Effective meetings
 
-To ensure effective meetings, it's crucial to establish rules that apply to everyone involved, including partners, clients, and coworkers.
+To ensure productive meetings, it's essential to establish ground rules that apply to all participants, including partners, clients, and coworkers.
 
-Firstly, the meeting should follow specific etiquette, starting between 09:30 to 12:30 and 14:30 to 17:30. As a full remote company, attendees should always keep their cameras on during the meetings, and everyone should enter the meeting on time.
-Only strictly necessary personnel should be invited; anyone who can be informed of the topics discussed by simply sending an email will not be invited but informed through the summary email.
+Before all, meetings should adhere to specific etiquette, taking place between 09:30 to 12:30 and 14:30 to 17:30. As a fully remote company, attendees are expected to keep their cameras on throughout the meetings and should join on time.
 
-Additionally, meetings should not exceed 50 minutes to prevent wasting attendees' time. To keep meetings concise, attendees should come prepared and well-informed about the topics beforehand.
+Only essential personnel should be invited to the meeting, as attendees should be informed of the discussed topics via summary emails when appropriate. This avoids wasting attendees' time and ensures that only those who can contribute to the meeting attend.
+
+To keep meetings concise, they should not exceed 50 minutes. Attendees should come well-prepared and informed about the topics to be discussed.
 
 Finally, it's essential to end each meeting by sharing established goals or a list of topics to discuss in future meetings. By following these guidelines, all attendees can ensure that their meetings are productive and efficient.
 
