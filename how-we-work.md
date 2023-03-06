@@ -91,8 +91,8 @@ We are active contributors to the project, helping our clients not only with dev
 
 At Volcanic Minds, we believe in trust and autonomy when it comes to managing workload. We do not require employees to fill out timesheets unless they are working on specific projects or clients that require dedicated tracking of time spent.
 
-This policy allows employees to work efficiently without the added burden of tracking every minute of their time. However, for projects or clients that require dedicated tracking, we do require employees to fill out a timesheet. This helps us to accurately bill clients and monitor project progress.
+This policy allows us to work efficiently without the added burden of tracking every minute of our time. However, for projects or clients that require dedicated tracking, we do require employees to fill out a timesheet. This helps us to accurately bill clients and monitor project progress.
 
-We ask that employees communicate with their manager if they have any questions or concerns about tracking their time. Managers are available to provide guidance and support as needed.
+We ask that our employees communicate with their manager if they have any questions or concerns about tracking their time. Managers are available to provide guidance and support as needed.
 
-While we understand that filling out timesheets can be a tedious task, we ask that employees take this responsibility seriously and complete their timesheets accurately and in a timely manner when required. This helps us to maintain our high standards of quality and efficiency as a company.
+While we understand that filling out timesheets can be a tedious task, we ask that employees take this responsibility seriously and complete timesheets accurately and in a timely manner when required. This helps us to maintain our high standards of quality and efficiency as a quality-driven company.
