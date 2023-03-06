@@ -22,13 +22,7 @@ last_modified_date: 2023-03-01
 
 ## S.M.A.R.T. Goals
 
-As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives which stands for:
-
-- Specific
-- Measurable
-- Achievable
-- Reasonable
-- Time-bound
+As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives which stands for ***S***pecific ***M***easurable ***A***chievable ***R***easonable ***T***ime-bound.
 
 [Work in progress]
 
