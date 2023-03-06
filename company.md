@@ -54,13 +54,23 @@ In addition to these touchpoints, we also have a number of company rituals that 
 
 These events play a crucial role in helping us build a strong and supportive company culture, and we are committed to continuing to invest in them in the years to come.
 
-## Partners vs Client & Customer
+## Partners, Client and Customer
 
-[Work in progress]
+At the heart of our success is a deep appreciation for the value that our partners, clients, and customers bring to our business. We recognize that our success is not possible without the collaboration and support of these essential stakeholders.
+
+As a result, we prioritize building and maintaining strong, positive relationships with them. We take the time to understand their unique needs and goals, and work collaboratively with them to develop tailored solutions that address their specific challenges.
+
+Through this collaborative approach, we are able to deliver outstanding results and provide exceptional value to our partners, clients, and customers. We are committed to fostering long-term partnerships that enable us to continue delivering innovative solutions and achieving mutual success.
 
 ## Cutting edge culture
 
-[Work in progress]
+At Volcanic Minds, we take pride in our cutting-edge culture. We believe that to stay ahead of the curve, we must continuously innovate and challenge the status quo. Our culture is based on curiosity, creativity, and a passion for pushing boundaries.
+
+We foster a culture of experimentation, where our employees are encouraged to take risks and try new things. We understand that not every experiment will be a success, but we believe that failure is an opportunity for growth and learning. We use these experiences to inform our decisions and improve our processes.
+
+We invest heavily in research and development, constantly exploring new technologies and methodologies to enhance our work. This enables us to provide our clients with the most advanced and effective solutions in the industry.
+
+And absolutely yes, we are proud of our cutting-edge culture and believe it is a significant factor in our success. It sets us apart from our competitors and ensures that we remain at the forefront of our field.
 
 ## Board of directors
 
