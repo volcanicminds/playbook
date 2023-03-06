@@ -18,7 +18,7 @@ last_modified_date: 2023-03-01
 
 ## Why this playbook?
 
-We believe that the playbook is a valuable resource for companies looking to compete at the level of ours. It reflects our approach to thinking, working, and collaborating with the various actors in our ecosystem, including partners, customers, and collaborators.
+We believe that the playbook is a valuable resource for companies looking to compete at the level of ours. It reflects our approach to thinking, working, and collaborating with the various actors in our ecosystem, including partners, clients, and collaborators.
 
 The strength of the playbook lies not just in the specific metrics, but in its ability to provide a broader vision that extends beyond day-to-day activities, and to offer a clear and transparent path to achieving long-term objectives. The playbook also allows us to align our goals and strategies across different teams and projects, ensuring that everyone is working towards a shared vision.
 
@@ -26,17 +26,17 @@ While not exhaustive, this playbook aims to provide transparency and to demonstr
 
 ## What are the strengths of the playbook?
 
-A business playbook is a collection of documents, processes, and guidelines that define how a company operates. It acts as a roadmap for employees, stakeholders, partners, and customers to comprehend our values and philosophy. Here are a few reasons why having a business playbook is crucial for us:
+A business playbook is a collection of documents, processes, and guidelines that define how a company operates. It acts as a roadmap for employees, stakeholders, partners, and clients to comprehend our values and philosophy. Here are a few reasons why having a business playbook is crucial for us:
 
-- Consistency: it serves as a guide for ensuring that all members of the company are aligned in their commitment to quality, transparency, and customer satisfaction.
+- Consistency: it serves as a guide for ensuring that all members of the company are aligned in their commitment to quality, transparency, and client satisfaction.
 
-- Clarity: well-designed policies, procedures, and guidelines provide transparency to employees, customers, and stakeholders on company operations.
+- Clarity: well-designed policies, procedures, and guidelines provide transparency to employees, clients, and stakeholders on company operations.
 
 - Reputation: one of the missions of Volcanic Minds is to build a good reputation. A business playbook helps ensure that the company consistently delivers on its promises.
 
 - Efficiency: a playbook can enhance operational efficiency by defining processes and procedures, leading to improved productivity, cost savings, and profitability.
 
-- Growth: it can promote growth by establishing a good reputation, attracting and retaining customers, creating opportunities for revenue growth, and reducing costs through increased efficiency and productivity
+- Growth: it can promote growth by establishing a good reputation, attracting and retaining clients, creating opportunities for revenue growth, and reducing costs through increased efficiency and productivity
 
 ## How frequently is this playbook updated?
 
@@ -52,13 +52,13 @@ Additionally, employees are encouraged to provide suggestions and feedback to co
 
 ## Who owns the legal rights to the software that you write?
 
-We transfer legal ownership of the software to the customer only after they have paid for it. This is a standard practice in the software development industry. Once the customer has paid, they will own the legal rights to the software and can use it as they see fit.
+We transfer legal ownership of the software to the client only after they have paid for it. This is a standard practice in the software development industry. Once the client has paid, they will own the legal rights to the software and can use it as they see fit.
 
-Please note that if we use third-party software with open or closed licenses, we cannot transfer ownership of that software to the customer. However, the code we produce in-house is transferable to the customer, along with the legal rights to use and modify that code.
+Please note that if we use third-party software with open or closed licenses, we cannot transfer ownership of that software to the client. However, the code we produce in-house is transferable to the client, along with the legal rights to use and modify that code.
 
-## Do you work on-site with partners and customers?
+## Do you work on-site with partners and clients?
 
-Every collaboration requires ceremonies, even in-person, to establish a strong and solid relationship. At Volcanic Minds, we have decided to work in an agile and remote way for various reasons, including costs, talent acquisition, work-life balance, market reach, and company strategy. While we maintain physical contact with our customers and partners when necessary, there is no doubt that our way of working leans heavily towards smart working methods.
+Every collaboration requires ceremonies, even in-person, to establish a strong and solid relationship. At Volcanic Minds, we have decided to work in an agile and remote way for various reasons, including costs, talent acquisition, work-life balance, market reach, and company strategy. While we maintain physical contact with our clients and partners when necessary, there is no doubt that our way of working leans heavily towards smart working methods.
 
 ## What tools do we often use?
 
