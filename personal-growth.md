@@ -21,6 +21,7 @@ last_modified_date: 2023-03-01
 [Work in progress]
 
 ## Career path
+
 Volcanic Minds offers three main career paths: marketing and design, IT development, and administration and sales.
 
 For the marketing and design area, there are two career paths: operatives and team leaders. Operatives work on specific projects, while team leaders manage a team of operatives. Each team could be assigned to specific clients or work on multiple projects simultaneously.
@@ -38,6 +39,7 @@ As a small to mid-sized company, we recognize that career growth may not always 
 We encourage our employees to take on new challenges and seek out opportunities for growth within the company. By demonstrating a strong work ethic, a willingness to learn, and a commitment to the company's values and goals, employees can earn the trust and respect of the board and the company's founders.
 
 ## Smart working vs Remote working: hybrid
+
 Volcanic Minds operates as a fully remote organization, which means that all of its employees work from home or any other location they choose. This approach has been adopted by the company because it believes in the importance of trust and efficiency in the workplace.
 
 Volcanic Minds requires its employees to operate within a specific time zone range. Specifically, they ask that their employees work from within a time zone that is either one hour ahead or one hour behind the company's official time zone. This requirement ensures that employees are available for team collaboration and meetings during standard business hours, while also allowing for flexibility in work schedules.
@@ -61,6 +63,7 @@ In conclusion, Volcanic Minds is a forward-thinking company that recognizes the 
 [Work in progress]
 
 ## Leave days, vacation days
+
 Company vacation days are an important aspect of employee benefits that are designed to help employees achieve a healthy work-life balance. The law in many countries mandates a minimum number of days of paid leave per year, which employees are entitled to. At our company, we adhere to these legal requirements and ensure that our employees receive their entitled leave days.
 
 However, we also understand that employees have different needs and preferences when it comes to taking time off from work. Therefore, we don't have mandatory vacation days during specific times of the year, such as a summer shutdown or a winter break. Instead, we encourage our employees to plan their time off in advance and work with their direct managers to ensure that the business needs are taken into account.
