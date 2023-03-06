@@ -81,7 +81,11 @@ Finally, it's essential to end each meeting by sharing established goals or a li
 
 ## Define boundaries
 
-[Work in progress]
+Defining the boundaries of a project is one of the most critical aspects of determining project specifications. It serves to protect the client's interests and ensure that we are working towards the right objectives.
+
+Undoubtedly, it's not an easy task. We continuously apply this quality throughout the project, ultimately benefiting our clients. While our clients may have a clear idea of what they want to achieve, it's our job to continually analyze and validate these boundaries.
+
+We are active contributors to the project, helping our clients not only with development and analysis but also by providing an external perspective. This is crucial because every business is unique and requires a different approach.
 
 ## Timesheet
 
