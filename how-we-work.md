@@ -61,7 +61,11 @@ Overall, the Scrum methodology provides Volcanic Minds with a flexible and adapt
 
 ## Project delivery kit
 
-[Work in progress]
+At the end of the project delivery phase, Volcanic Minds is committed to providing its clients and partners with comprehensive documentation of the processes involved in the project, along with all the DevOps infrastructure set, if required. Additionally, the company will provide the client or partner with the source code once payment has been received.
+
+The processes level documentation is crucial because it provides a detailed account of the project's development process, outlining the steps taken, and the decisions made along the way. This documentation helps ensure that the client or partner understands the project's development process and can use it as a reference in the future. It also enables the client or partner to identify any areas where improvements could be made, which can be valuable for future projects.
+
+In summary, providing processes level documentation and the source code to the client after the payment is an important aspect of Volcanic Minds' project delivery process. It helps to ensure that the client understands the development process and has complete control over the project's source code, enabling them to maintain and adapt the project as needed in the future.
 
 ## Effective meetings
 
