@@ -18,15 +18,13 @@ last_modified_date: 2023-03-01
 
 ## Methodology
 
-A project type contract is a principal solution for clients of a company seeking to engage the services of the company for a specific project. This type of contract provides a legally binding agreement between the client and the company, detailing the project scope, timeline, and payment terms.
+We offer a **project-based** approach to clients who want to engage our services for a specific project. This type of contract creates a legally binding agreement between the client and our company, which outlines the details of the project including the scope, timeline, and payment terms.
 
-The project type contract serves as a comprehensive document that defines the expectations and obligations of both parties, outlining the roles and responsibilities of the company and the client. It establishes a clear understanding of the project requirements, ensuring that the client's needs are met while protecting the company's interests.
+The project type contract serves as a comprehensive document that sets out the expectations and responsibilities of both parties, defining the roles and responsibilities of the company and the client. It ensures a clear vision of the project requirements, and it protects the interests of both parties.
 
-The company prefers project type contracts over time material contracts, except in exceptional cases. A project type contract provides a clear scope of work, timeline, and payment terms, ensuring that both the company and the client have a shared understanding of the project's requirements.
+We prefer **project-based** contracts because they give us the flexibility to plan and execute the project in a way that aligns with our client's goals. We see ourselves as partners and as true main actors in the project, not just service providers, and we work closely with our clients to define clear goals, milestones, and deliveries that ensure the project's success. This approach helps us build strong, long-term relationships with our clients and deliver high-quality work that meets their needs.
 
-In addition to project type contracts, the company also offers a maintenance plan that includes pre-paid hours that clients can use for bug fixes. However, these hours can only be used for bug fixes, and clients must provide a written analysis of the issue before the company can allocate the pre-paid hours.
-
-The maintenance plan allows clients to have peace of mind knowing that they have access to support and bug fixes without incurring additional costs. By offering a maintenance plan, the company can establish long-term relationships with its clients, providing ongoing support and ensuring client satisfaction. Overall, the company's preference for project type contracts and maintenance plans demonstrates its commitment to delivering high-quality services to its clients.
+Another solution we offer is a **capacity-time-based** approach (not to be confused with a standard time and material contract) for clients who need flexibility in project requirements. With this method, the customer has access to a variable amount of our company's resources, which can be used at the most convenient times, such as during workload peaks or between project validation phases or when it is necessary to use external resources . We have some rules in place regarding how the client can allocate our time and what roles may be required, this approach can be a strong and viable alternative when the project is not fully clear or defined yet.
 
 ## Our area of expertise
 
