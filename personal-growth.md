@@ -58,7 +58,7 @@ In conclusion, Volcanic Minds is a forward-thinking company that recognizes the 
 
 At Volcanic Minds, we understand that technology is an integral part of our daily lives and work. To ensure that our employees have the necessary tools to perform their roles effectively, we provide a personal tech budget and benefit program.
 
-Under this program, at each senior employee is allocated a budget that they can use to purchase technology devices such as laptops, smartphones, and tablets. The budget is renewed bi-annually and is based on specific technology requirements.
+Under this program, senior employees are allocated a budget to purchase technology devices, such as laptops, smartphones, and tablets. The budget is renewed every two years and is based on their specific technology requirements.
 
 In addition, our employees also receive the following benefits:
 
