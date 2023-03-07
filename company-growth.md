@@ -69,7 +69,7 @@ The suite includes:
 - Webiste
     - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website){:target="_blank"} based on [Nuxt 3](https://nuxt.com/){:target="_blank"}
 
-all of which are designed to be customizable and adaptable to various projects.
+All of which are designed to be customizable and adaptable to various projects.
 
 The suite's open-source nature allows for community contributions, improvements, and bug fixes.
 Volcanic Minds is committed to providing developers with the tools they need to build robust, scalable applications.
