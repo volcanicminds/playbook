@@ -28,7 +28,19 @@ Another solution we offer is a **capacity-time-based** approach (not to be confu
 
 ## Our area of expertise
 
-[Work in progress]
+At Volcanic Minds, we are committed to creating the best products for our partners, and our team of experts specializes in a range of areas to achieve this goal. Our expertise includes:
+
+- tailor-made solutions
+- CX / UX / UI design
+- web and mobile applications
+- devOps and system integrations
+- strategy & CIO / CTO as a service
+
+Our strengths lie in our attention to detail, ensuring maximum efficiency in everything we do. We have a mobile-first approach to hybrid app development and an SEO-oriented approach to building digital solutions. 
+
+We have more than ten years of experience serving customers across a range of industries, including banking and finance, manufacturing, advertising, digital evolution, and services for citizens.
+
+Briefly, our team has ability to deliver superior products that meet the unique needs of each of our partners. We are Volcanic Minds.
 
 ## Project steps
 
