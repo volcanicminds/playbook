@@ -18,7 +18,13 @@ last_modified_date: 2023-03-01
 
 ## Business evolution & future plan
 
-[Work in progress]
+Volcanic Minds is currently dedicated to supporting startups and SMEs that have a high level of technological content. Our experience and expertise in this area allow us to provide effective guidance and development services to these companies, helping them to grow and succeed.
+
+Looking to the future, we plan to expand our services to include specific corporate service lines. This shift will enable us to work with larger companies and offer a broader range of services to our clients. We have already begun drafting a plan for this expansion and will be working to ensure that our services are well-suited to the needs of corporate entities.
+
+Through this growth and rebalancing of our activities, we aim to continue supporting our current clients while also providing new opportunities for larger businesses to benefit from our expertise. Our commitment to quality and innovation remains at the core of our mission, and we look forward to serving both startups and corporations as we move forward.
+
+For the current year, we plan to focus our efforts on a very limited number of Corporates (max 2-3). By working closely with these companies, we aim to gain a deeper understanding of their needs and identify potential opportunities for growth and development on next years.
 
 ## S.M.A.R.T. Goals
 
