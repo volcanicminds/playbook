@@ -24,7 +24,19 @@ last_modified_date: 2023-03-01
 
 As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives which stands for ***S***_pecific_ ***M***_easurable_ ***A***_chievable_ ***R***_easonable_ ***T***_ime-bound_.
 
-[Work in progress]
+These are the goals we have set for the current year (2023):
+
+- Increase sales by 25% by the end of Q4 through targeted marketing campaigns.
+
+- Increase website traffic by 50% over the next months (max 6) through a combination of SEO strategies, social media advertising, and email marketing campaigns.
+
+- Launch a new tailor-made service line dedicated to Corporate within the next 12 months, generating at least 15% of total earnings within the first year of launch.
+
+- Identify and initiate at least one new social project to support in Q3 and Q4 periods.
+
+- Conduct a study on the applicability of AI in our existing (open/closed) projects and explore opportunities for re-engineering them as white label services.
+
+- Develop and implement a robust internship and stages program by the end of Q3 to attract and nurture top talent.
 
 ## Work for equity
 
