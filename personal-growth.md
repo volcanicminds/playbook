@@ -38,7 +38,7 @@ As a small to mid-sized company, we recognize that career growth may not always 
 
 We encourage our employees to take on new challenges and seek out opportunities for growth within the company. By demonstrating a strong work ethic, a willingness to learn, and a commitment to the company's values and goals, employees can earn the trust and respect of the board and the company's founders.
 
-## Smart working vs Remote working: hybrid
+## Remote working
 
 Volcanic Minds operates as a fully remote organization, which means that all of its employees work from home or any other location they choose. This approach has been adopted by the company because it believes in the importance of trust and efficiency in the workplace.
 
