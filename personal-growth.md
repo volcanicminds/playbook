@@ -56,7 +56,22 @@ In conclusion, Volcanic Minds is a forward-thinking company that recognizes the 
 
 ## Personal tech budget & benefit
 
-[Work in progress]
+At Volcanic Minds, we understand that technology is an integral part of our daily lives and work. To ensure that our employees have the necessary tools to perform their roles effectively, we provide a personal tech budget and benefit program.
+
+Under this program, at each senior employee is allocated a budget that they can use to purchase technology devices such as laptops, smartphones, and tablets. The budget is renewed bi-annually and is based on specific technology requirements.
+
+In addition, our employees also receive the following benefits:
+
+- Working arrangements: We understand that work-life balance is essential. Therefore, we offer our employees the flexibility to work remotely, as well as a free-paid time plan to support their work-life balance.
+
+- Software and app subscriptions: We provide access to a range of professional software and app subscriptions to help our employees improve their productivity and work efficiently.
+
+- Professional development opportunities: We encourage our employees to improve their technology skills by offering tech events, training programs and workshops.
+
+- Food vouchers: We also offer food vouchers to our employees, allowing them to enjoy a meal at a variety of restaurants or cafes. This benefit promotes convenience and flexibility in their daily routines.
+
+In this way, we aim to create a supportive work environment that enables our employees to perform their roles effectively, while also promoting their personal and professional growth.
+
 
 ## Investment Time: open source, reading, sport, e-learning
 
