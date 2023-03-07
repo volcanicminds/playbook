@@ -64,7 +64,16 @@ In conclusion, Volcanic Minds is a forward-thinking company that recognizes the 
 
 ## Life balancing: free-paid time
 
-[Work in progress]
+We believe in balancing work and personal life by offering employees a mix of free and paid time off. This approach promotes a healthy work-life balance, leading to improved job satisfaction, better mental health, and increased productivity.
+
+To support this balance, we've established the following days for recharging batteries:
+
+- Your birthday: an extra paid day off.
+- Mental health day: a paid day off (usable in spring or autumn).
+- San Giovanni (patron saint of Turin): June 24th, paid day off.
+- Volunteer/cultural/education days: up to 3 unpaid days off.
+
+However, we ask that employees plan these days in advance to avoid issues with customers, partners, or colleagues.
 
 ## Leave days, vacation days
 
