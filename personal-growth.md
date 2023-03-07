@@ -16,9 +16,13 @@ last_modified_date: 2023-03-01
 
 ---
 
-## Coaching & Follow Up
+## Onboarding, Coaching & Follow Up
 
-[Work in progress]
+Our onboarding process ensures that new team members are equipped with the knowledge and tools needed to succeed. We familiarize them with our working methods and technologies, as well as share our vision and growth objectives, to create a foundation of shared commitment to driving the company forward. During the onboarding process, we ensure that all essential information is thoroughly explained to new team members, leaving no room for confusion or uncertainty.
+
+At our company, we understand that our team members are our most valuable asset. That's why we're committed to providing ongoing coaching and support to promote their personal and professional growth. We believe that when our team members are thriving, our company thrives as well.
+
+Our commitment to our team members goes beyond their professional growth. We also recognize the importance of work-life balance and mental health. We also encourage our team members to take ownership of their professional development by setting goals and working with their managers to create a plan to achieve them.
 
 ## Career path
 
