@@ -75,7 +75,7 @@ In this way, we aim to create a supportive work environment that enables our emp
 
 ## Investment Time: open source, reading, e-learning
 
-t Volcanic Minds, we recognize the importance of investing time in personal and professional development. We encourage our team members to dedicate a portion of their workweek (around 16 hours per month) to activities that contribute to their growth and well-being.
+At Volcanic Minds, we recognize the importance of investing time in personal and professional development. We encourage our team members to dedicate a portion of their workweek (around 16 hours per month) to activities that contribute to their growth and well-being.
 
 This includes exploring open-source resources and contributing to the community (and we have some awesome open-source projects too), reading books and articles that deepen their knowledge and perspective, engaging in physical activities to boost their health and energy, and participating in e-learning opportunities that expand their skills and expertise. 
 
