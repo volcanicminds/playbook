@@ -54,7 +54,7 @@ Despite being a fully remote company, Volcanic Minds recognizes that there may b
 
 In conclusion, Volcanic Minds is a forward-thinking company that recognizes the benefits of remote work. By fostering a culture of trust and efficiency, the company has created a dynamic and flexible work environment that allows its employees to thrive. While the company may consider introducing in-person meetings and events in the future, this decision will be made collaboratively and with the best interests of its employees in mind.
 
-## Personal tech budget & benefit
+## Personal tech budget & benefits
 
 At Volcanic Minds, we understand that technology is an integral part of our daily lives and work. To ensure that our employees have the necessary tools to perform their roles effectively, we provide a personal tech budget and benefit program.
 
