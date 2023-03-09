@@ -28,8 +28,8 @@ Volcanic Minds is _always_ seeking highly motivated professionals to join our am
 
 ## How to become a partner
 
- We are always available and happy to meet potential technical and commercial partners interested in collaborating with us, regardless of their industry or background. If you would like to become our partner or would like more information about this opportunity, please feel free to contact us at [info@volcanicminds.com](mailto:info@volcanicminds.com).
+ We are always available and happy to meet potential technical and commercial partners interested in collaborating with us, regardless of their industry or background. If you would like to become our partner or would like more information about this opportunity, please feel free to contact us at [partner@volcanicminds.com](mailto:partner@volcanicminds.com).
 
 ## How to ask us to become your sponsor
 
-Would you like to involve us in tech events or other activities? Are you planning an event, activity or project for social impact? We're here to help! Write to us at [info@volcanicminds.com](mailto:info@volcanicminds.com).
+Would you like to involve us in tech events or other activities? Are you planning an event, activity or project for social impact? We're here to help! Write to us at [sponsor@volcanicminds.com](mailto:sponsor@volcanicminds.com).
