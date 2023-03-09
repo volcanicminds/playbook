@@ -2,7 +2,7 @@
 layout: default
 title: Company growth
 nav_order: 3
-last_modified_date: 2023-03-07
+last_modified_date: 2023-03-09
 ---
 
 # Company growth
