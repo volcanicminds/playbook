@@ -72,7 +72,6 @@ In addition, our employees also receive the following benefits:
 
 In this way, we aim to create a supportive work environment that enables our employees to perform their roles effectively, while also promoting their personal and professional growth.
 
-
 ## Investment Time: open source, reading, e-learning
 
 At Volcanic Minds, we recognize the importance of investing time in personal and professional development. We encourage our team members to dedicate a portion of their workweek (about 16 hours per month) to activities that contribute to their growth and well-being.
