@@ -51,7 +51,7 @@ footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) -
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Volcanic Minds business playbook, which describes the guidelines and values
   on which the company is based.
-url: "https://volcanicminds.github.io/volcanic-minds-playbook"
+url: "https://playbook.volcanicminds.com"
 github_username: volcanicminds
 repository: volcanicminds/volcanic-minds-playbook
 
