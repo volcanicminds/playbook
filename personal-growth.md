@@ -87,12 +87,12 @@ We believe in balancing work and personal life by offering employees a mix of fr
 
 To support this balance, we've established the following days for recharging batteries:
 
-- Your birthday: an extra paid day off.
-- Mental health day: a paid day off (usable in spring or autumn).
-- San Giovanni (patron saint of Turin): June 24th, paid day off.
-- Volunteer/cultural/education days: up to 3 unpaid days off.
+- Birthdate: an extra paid day off.
+- Mental health day: two paid days off, usable in spring or autumn.
+- San Giovanni (patron saint of Turin): June 24th, a paid day off.
+- Flexible days: up to three unpaid days off for personal development, cultural activities, or volunteering.
 
-However, we ask that employees plan these days in advance to avoid issues with customers, partners, or colleagues.
+However, we ask that employees plan these days with their manager in advance to avoid issues with customers, partners, or colleagues.
 
 ## Leave days, vacation days
 
