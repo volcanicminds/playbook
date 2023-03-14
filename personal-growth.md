@@ -2,7 +2,7 @@
 layout: default
 title: Personal growth
 nav_order: 5
-last_modified_date: 2023-03-09
+last_modified_date: 2023-03-14
 ---
 
 # Personal growth
@@ -15,6 +15,23 @@ last_modified_date: 2023-03-09
 {:toc}
 
 ---
+
+## Hiring process
+
+Our hiring process is open to all and is guided by our commitment to **inclusivity**, **transparency**, and **fairness**. 
+But, we take this process _seriously_ and to achieve this, we have established the following five steps:
+
+1. Application Submission: We welcome applications from all candidates and encourage them to submit their CV or application through our website, social media channels, or job boards.
+
+2. Screening call: After reviewing applications, we conduct an initial screening call to assess the candidate's interest, experience, and qualifications.
+
+3. Tech interview: Candidates who pass the screening will be invited to a technical interview. In some cases, we may conduct the technical interview during the screening call. This interview is designed to evaluate the candidate's technical skills and experience.
+
+4. Tech test: Passed the previous interviews, we'll ask candidates to complete a technical test to further evaluate their abilities. We will provide clear instructions and guidelines for completing the test and offer support and assistance as needed.
+
+5. Job Offer: Finally, we will extend an offer with perks and benefits to join our team.
+
+Throughout the process, we strive to provide clear and transparent communication to all candidates, and we are committed to ensuring that all applicants receive fair and equitable treatment. We value diversity and inclusion and believe that our team's strength comes from its diverse perspectives and experiences.
 
 ## Onboarding, Coaching & Follow Up
 
