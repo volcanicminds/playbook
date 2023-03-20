@@ -2,7 +2,7 @@
 layout: default
 title: Contact us
 nav_order: 6
-last_modified_date: 2023-03-09
+last_modified_date: 2023-03-20
 ---
 
 # Contact us
@@ -18,7 +18,7 @@ last_modified_date: 2023-03-09
 
 ## How to start a new project together
 
-We are unceasingly desirous to talk about new proejcts and opportunities, even at the early stage of business. Without any commercial constraints. Don't hesitate to submit your project, idea or potential collaboration by dropping us a line at [info@volcanicminds.com](mailto:info@volcanicminds.com) or make an appointment from our [contact page](https://volcanicminds.com){:target="_blank"}.
+We are unceasingly desirous to talk about new proejcts and opportunities, even at the early stage of business. Without any commercial constraints. Don't hesitate to submit your project, idea or potential collaboration by dropping us a line at [info@volcanicminds.com](mailto:info@volcanicminds.com) or make an appointment from our [contact page](https://volcanicminds.com/contacts){:target="_blank"}.
 
 ## How to come on board
 
